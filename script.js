@@ -1,6 +1,6 @@
 let btnNo = document.getElementById("btnNo")
 
-btnNo.onmouseover = ()=>{
+btnNo.onmousemove = ()=>{
 
     let innerWidth = window.innerWidth
     let innerHeight = window.innerHeight
